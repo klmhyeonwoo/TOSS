@@ -4,6 +4,10 @@
 
 # <a href=""></a>
 
+### Frontend Developer
+##### <a href="https://klmhyeonwooo.tistory.com/53">취업에 있어 우리가 가져야 할 태도</a>
+##### <a href="https://klmhyeonwooo.tistory.com/52">Git과 Github의 차이</a>
+
 ### JavaScript
 ##### <a href="https://klmhyeonwooo.tistory.com/48">Promise와 CallBack 차이</a>
 ##### <a href="https://klmhyeonwooo.tistory.com/49">var, let, const 차이 그리고 호이스팅</a>
