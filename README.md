@@ -13,4 +13,5 @@
 ##### <a href="https://klmhyeonwooo.tistory.com/49">var, let, const 차이 그리고 호이스팅</a>
 ##### <a href="https://klmhyeonwooo.tistory.com/50">호이스팅에서의 TDZ(Temporary Dead Zone)</a>
 ##### <a href="https://klmhyeonwooo.tistory.com/51">자바스크립트에서의 불변성</a>
+##### <a href="https://klmhyeonwooo.tistory.com/54">Promise를 사용한 비동기 통신, Async · Await 비동기 통신의 차이점</a>
 
