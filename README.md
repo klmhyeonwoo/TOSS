@@ -15,4 +15,5 @@
 ##### <a href="https://klmhyeonwooo.tistory.com/51">자바스크립트에서의 불변성</a>
 ##### <a href="https://klmhyeonwooo.tistory.com/54">Promise를 사용한 비동기 통신, Async · Await 비동기 통신의 차이점</a>
 ##### <a href="https://klmhyeonwooo.tistory.com/55">자바스크립트가 유동적인 언어인 이유</a>
+##### <a href="https://klmhyeonwooo.tistory.com/56">자바스크립트의 클로져(Closure) 개념</a>
 
