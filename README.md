@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/19422885/217785040-9a70f8df-de5d-4b3e-a92b-2359aba7a451.gif" style="width:400px;" alt="토스 로고"/>
 </div>
 
-# <a href=""></a>
+##### <a href=""></a>
 
 ### Frontend Developer
 ##### <a href="https://klmhyeonwooo.tistory.com/53">취업에 있어 우리가 가져야 할 태도</a>
@@ -14,4 +14,5 @@
 ##### <a href="https://klmhyeonwooo.tistory.com/50">호이스팅에서의 TDZ(Temporary Dead Zone)</a>
 ##### <a href="https://klmhyeonwooo.tistory.com/51">자바스크립트에서의 불변성</a>
 ##### <a href="https://klmhyeonwooo.tistory.com/54">Promise를 사용한 비동기 통신, Async · Await 비동기 통신의 차이점</a>
+##### <a href="https://klmhyeonwooo.tistory.com/55">자바스크립트가 유동적인 언어인 이유</a>
 
